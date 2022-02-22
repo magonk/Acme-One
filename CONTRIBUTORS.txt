@@ -14,3 +14,4 @@ This project was contributed by the following people:
 - Manuel González (mangoncac@alum.us.es)
 - Francisco Javier Vila Pavón (fravilpav@alum.us.es)
 - Juan Antonio Garcia Ruiz (juagarrui6@alum.us.es)
+- José María Contreras-Cervantes Santos (josconsan1@alum.us.es)
